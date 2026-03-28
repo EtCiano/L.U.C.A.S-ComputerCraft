@@ -28,3 +28,4 @@ Ex.: Caso queira que um item vá para a Mechanical Press e o Mechanical Mixer, n
 ## Problemas e futuras atualizações
 - As estações do mekanism e outros ainda não foram testadas, futuramente seram incluídas no código;
 - É necessário colocar as estações no código separadamente para anexa-las, futuramente será feito um sistema para escanear as estações automáticamente;
+- Futuramente será usado o monitor, enquanto isso é possivel tirar a linha 10 a 12;
