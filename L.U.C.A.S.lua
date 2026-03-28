@@ -33,7 +33,12 @@ local craftingsPossiveis = {
         name = "mechanical press com basin",
         id = 4,
         localCraft = "basin_1",
-    }
+    },
+	saw = {
+		name = "mechanical saw",
+		id = 5,
+		localCraft = "create:saw_0"
+	}
 }
 
 local function craftar(caminho)
