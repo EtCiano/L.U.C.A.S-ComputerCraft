@@ -79,6 +79,7 @@ local function craftar(caminho)
     -- =========================================================================
     -- TODO: Fazer com que o programa espere o crafting terminar para continuar
     -- TODO: Sistema de filtro
+	-- TODO: Sistema para identificar estações de Crafting automaticamente
     -- =========================================================================
 
 end
